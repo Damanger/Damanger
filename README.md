@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **omar.cruzr97@hotmail.com**
 
-- 📄 Know about my experiences [https://github.com/Damanger/Omar-Cruz-Portfolio.git](https://damanger.github.io/Omar-Cruz-Portfolio/)
+- 📄 Know about my experiences [https://damanger.github.io/Omar-Cruz-Portfolio/](https://damanger.github.io/Omar-Cruz-Portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
