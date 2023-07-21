@@ -1,3 +1,4 @@
+<img src="./oracle.PNG">
 <h1 align="center">Hi 👋, I'm Omar Alfonso Cruz Ramírez</h1>
 <h3 align="center">A passionate frontend developer from México</h3>
 
