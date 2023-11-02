@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **omar.cruzr97@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MidOqvKbP_k3QdKSjTVDT6ob3jj8m3sm/view?usp=sharing](https://drive.google.com/file/d/1MidOqvKbP_k3QdKSjTVDT6ob3jj8m3sm/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1R6TWe_8ONA1OViFb4XFXTxa8x-pBUI8u/view?usp=sharing](https://drive.google.com/file/d/1R6TWe_8ONA1OViFb4XFXTxa8x-pBUI8u/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
