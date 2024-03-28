@@ -2,10 +2,11 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Damanger.Damanger" />
 
 <div align="center">
-    <h1 align="center">
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=600&height=70&duration=4000&lines=👨🏻‍💻Hello+there!+👋;+I'm+Omar+A.+Cruz+Rmz.!;" />
-    </h1>
-    <h2 align="center">A Front-End Developer, from México 🇲🇽.</h2>
+    <h1 align="center" style="color: green;">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=600&height=70&duration=4000&lines=👨🏻‍💻Hello+there!+👋;+I'm+Omar+A.+Cruz+Rmz.!;" />
+</h1>
+<h2 align="center" style="color: green;">A Front-End Developer, from México 🇲🇽.</h2>
+
 </div>
 
 <div align="center">
