@@ -3,7 +3,7 @@
 
 <div align="center">
     <h1 align="center">
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=600&height=70&duration=3000&lines=Hello+there!+👋;+I'm+Omar+A.+Cruz+Rmz.!;" />
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=600&height=70&duration=4000&lines=👨🏻‍💻Hello+there!+👋;+I'm+Omar+A.+Cruz+Rmz.!;" />
     </h1>
     <h2 align="center">A Front-End Developer, from México 🇲🇽.</h2>
 </div>
