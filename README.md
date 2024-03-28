@@ -2,14 +2,16 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Damanger.Damanger" />
 
 <div align="center">
-    <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=600&height=70&color=14FF00&duration=4000&lines=👨🏻‍💻Hello+there!👋🏼;+I'm+Omar+A.+Cruz+Rmz.!;" />
+    <h1><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=1000&height=70&color=14FF00&duration=4000&lines=👨🏻‍💻Hello+there!👋🏼;+I'm+Omar+A.+Cruz+Rmz.!;" />
     </h1>
-    <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=600&height=70&color=0074D9&duration=4000&lines=A+Front-End+Developer%2C+from+M%C3%A9xico+%F0%9F%87%B2%F0%9F%87%BD." /></h2>
+    <h2><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=1000&height=70&color=0074D9&duration=4000&lines=A+Front-End+Developer;+A+mobile+Developer;" /></h2>
 
 
 </div>
 
 <div align="center">
+
+<h3>From México</h3>
 
 - 🌱 I’m currently learning **Data Science and Mobile development**
 
@@ -33,19 +35,13 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Damanger&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Damanger&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=damanger&" alt="damanger" />
-</div>
-
-###
-
-<br clear="both">
+<br/>
+<h2 align="center">👨🏻‍💻 Languages-Frameworks-Tools 👨🏻‍💻</h2>
 
 <img align="right" height="150" src="https://avatars.githubusercontent.com/u/92276635?v=4"  />
 
 ###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
@@ -140,8 +136,17 @@
 </div>
 
 ###
+<br/>
+<h2 align="center">📊 Stats 📊</h2>
 
-<br clear="both">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Damanger&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Damanger&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=damanger&" alt="damanger" />
+</div>
+
+###
+
 
 <img src="https://raw.githubusercontent.com/Damanger/Damanger/output/snake.svg" alt="Snake animation" />
 
