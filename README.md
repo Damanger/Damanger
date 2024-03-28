@@ -1,8 +1,6 @@
 <img src="./oracle.PNG">
 <h2 align="left">Hi 👋! My name is Omar Cruz and I'm a Front-End Developer, from México.</h2>
 
-<h2 align="left">Hi 👋! My name is Omar Cruz and I'm a Front-End Developer, from México.</h2>
-
 ###
 
 <div align="center">
