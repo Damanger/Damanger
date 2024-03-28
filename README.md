@@ -1,6 +1,24 @@
 <img src="./oracle.PNG">
 <h2 align="left">Hi 👋! My name is Omar Cruz and I'm a Front-End Developer, from México.</h2>
 
+- 🌱 I’m currently learning **Data Science and Mobile development**
+
+- 👨‍💻 All of my projects are available at [https://www.omar-cruz-rmz.com/](https://www.omar-cruz-rmz.com/)
+
+- 💬 Ask me about **React**
+
+- 📫 How to reach me **omar.cruzr97@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=damanger&show_icons=true&locale=en&layout=compact" alt="damanger" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=damanger&show_icons=true&locale=en" alt="damanger" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=damanger&" alt="damanger" /></p>
+
 ###
 
 <div align="center">
