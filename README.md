@@ -1,5 +1,12 @@
 <img src="./oracle.PNG">
-<h2 align="left">Hi 👋! My name is Omar Cruz and I'm a Front-End Developer, from México.</h2>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+there!+👋;+I'm+Omar+Cruz!;" />
+</h1>
+<h2 align="center">A Front-End Developer, from México 🇲🇽.</h2>
+
+<div align="center">
 
 - 🌱 I’m currently learning **Data Science and Mobile development**
 
@@ -8,6 +15,8 @@
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **omar.cruzr97@gmail.com**
+
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
