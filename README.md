@@ -4,7 +4,7 @@
 <div align="center">
     <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=600&height=70&color=14FF00&duration=4000&lines=👨🏻‍💻Hello+there!👋🏼;+I'm+Omar+A.+Cruz+Rmz.!;" />
     </h1>
-    <h2 align="center">A Front-End Developer, from México 🇲🇽.</h2>
+    <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=600&height=70&color=0074D9&duration=4000&lines=A+Front-End+Developer%2C+from+M%C3%A9xico+%F0%9F%87%B2%F0%9F%87%BD." /></h2>
 
 
 </div>
