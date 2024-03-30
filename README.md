@@ -35,7 +35,7 @@
 <br/>
 <h2 align="center">👨🏻‍💻 Languages-Frameworks-Tools 👨🏻‍💻</h2>
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/92276635?v=4"  />
+<img align="right" height="150" src="https://raw.githubusercontent.com/Damanger/Portfolio/main/public/yoMemoji.webp"  />
 
 ###
 
