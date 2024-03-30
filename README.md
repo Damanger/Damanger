@@ -1,4 +1,4 @@
-<img src="./oracle.PNG">
+<img src="https://raw.githubusercontent.com/Damanger/Damanger/main/oracle.PNG">
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Damanger.Damanger" />
 
 <div align="center">
