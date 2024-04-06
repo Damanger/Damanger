@@ -2,7 +2,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Damanger.Damanger" />
 
 <div align="center">
-    <h1><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=1000&height=70&color=14FF00&duration=3000&lines=Hello+there!+👋🏼;+I'm+Omar+A.+Cruz+Rmz.!;+A+Front-End+Developer!+🖥️;+And+a+mobile+Developer!+📱;" /></h1>
+    <h1><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=1000&height=70&color=14FF00&duration=3000&lines=Hello+there!+👋🏼;+I'm+Omar+A.+Cruz+Rmz.!;+A+Full-Stack+Developer!+🖥️;+And+a+mobile+Developer!+📱;" /></h1>
 </div>
 
 
