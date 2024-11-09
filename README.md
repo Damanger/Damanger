@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Data Science and Mobile development**
 
-- 👨‍💻 All of my projects are available at [https://www.omar-cruz-rmz.com/](https://www.omar-cruz-rmz.com/)
+- 👨‍💻 All of my projects are available at [https://www.omar-cruz.com/](https://www.omar-cruz-rmz.com/)
 
 - 💬 Ask me about **React**
 
